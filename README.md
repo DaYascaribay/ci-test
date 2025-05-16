@@ -2,7 +2,7 @@
 
 # Full Stack open CI/CD
 
-This repository is used for the CI/CD module of the Full stack open course by DAVID YASCARIBAY UCE
+This repository is used for the CI/CD module of the Full stack open course by DAVID YASCARIBAY UCE PROGRAMACION DISTRIBUIDA
 
 Fork the repository to complete course exercises
 
